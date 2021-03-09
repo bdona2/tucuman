@@ -1,0 +1,1 @@
+var json_Delegacion_19 = {"type":"FeatureCollection","name":"Delegacion_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"LOCALIDAD":"TUCUMÁN"},"geometry":{"type":"Point","coordinates":[-65.210388054071316,-26.83436322480139]}}]}
